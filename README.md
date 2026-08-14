@@ -1,5 +1,5 @@
 # LyricsModule
-![Preview](https://raw.githubusercontent.com/bibilabu783/LyricsModule/refs/heads/main/0814.gif)
+![Preview](https://raw.githubusercontent.com/bibilabu783/LyricsModule/refs/heads/main/0814.gif) <br>
 LyricsModule - Apple Music–style animated song lyrics display 🎵 (for Roblox Studio) <br>
 ***Created by Claude***
 
